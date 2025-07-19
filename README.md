@@ -62,7 +62,7 @@ README.md                    # This file
 
 ---
 
-## 📷 Sample Visuals (Add if available)
+## 📷 Sample Visuals 
 - Sales by brand bar chart
 - Monthly trend line chart
 - Price vs. Sales scatterplot
