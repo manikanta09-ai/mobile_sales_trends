@@ -57,17 +57,11 @@ The dataset contains details of mobile phones sold over a period of time, includ
 ```
 mobile_sales_trends.ipynb    # Jupyter notebook with full analysis
 data/                        # Folder for CSV or Excel files (not included here)
-README.md                    # This file
+README.md                  
 ```
 
 ---
 
-## 📷 Sample Visuals 
-- Sales by brand bar chart
-- Monthly trend line chart
-- Price vs. Sales scatterplot
-
----
 
 ## 📚 Future Improvements
 
